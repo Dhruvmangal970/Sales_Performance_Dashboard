@@ -21,7 +21,6 @@ Below are screenshots of the Power BI dashboard showcasing the analysis:
 ![Dashboard1](Dashboard1.png)  
 ![Dashboard2](Dashboard2.png)
 
-> Note: Replace these image names with the actual screenshots you have.
 
 ---
 
