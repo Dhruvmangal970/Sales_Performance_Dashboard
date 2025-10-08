@@ -18,8 +18,8 @@ The dataset used in this project is located in the `data/` folder.
 
 Below are screenshots of the Power BI dashboard showcasing the analysis:
 
-![Dashboard Screenshot](Dashboard1.png)  
-![Another View](Dashboard2.png)
+![Dashboard1](Dashboard1.png)  
+![Dashboard2](Dashboard2.png)
 
 > Note: Replace these image names with the actual screenshots you have.
 
